@@ -1,4 +1,4 @@
-<img src="./assets/web-ui.png" alt="Browser Use Web UI" width="full"/>
+AI-AGENT:
 
 This project builds upon the foundation of the [browser-use](https://github.com/browser-use/browser-use), which is designed to make websites accessible for AI agents.
 
@@ -213,5 +213,6 @@ CHROME_PERSISTENT_SESSION=true docker compose up --build
    # Stop the container
    docker compose down
    ```
+
 
 
